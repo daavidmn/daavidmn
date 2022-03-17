@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm David Macedo</h1>  
 <h3 align="center">A web developer from Brazil, mainly skilled on Front-End, having a close relationship with human-computer interaction and graphic design, focusing on creating solutions that add positively the user experience.</h3>  
   
-- 🔭 I’m currently working on **the digital transformation team of a brazilian state (Vue projects).**  
+- 🔭 I’m currently working on **the digital transformation team of a brazilian state (Vue/Nuxt projects).**  
   
 - 🌱 And currently learning: **Getting back to JS fundamentals**  
   
