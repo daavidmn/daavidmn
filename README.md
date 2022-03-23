@@ -9,8 +9,8 @@
 - 📫 How to reach me: **davidmacedodn@gmail.com**  
 
 - 🤝 Or connect with me: <a href="https://linkedin.com/in/daavidmn" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="daavidmn" title="Linkedin profile" height="30" width="40" /> /daavidmn
-</a>  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="daavidmn" title="Linkedin profile" height="20" width="20" /> /daavidmn
+</a>
   
 ## Knowledge:
 ### Programming Languages:
