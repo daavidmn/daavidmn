@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **SEPLAG (CE) with Vue/Nuxt projects.**  
   
-- 🌱 And currently learning: **Getting back to JS fundamentals**  
-  
 - 📫 How to reach me: **davidmacedodn@gmail.com**  
 
 - 🤝 Or connect with me: <a href="https://linkedin.com/in/daavidmn" target="blank">
